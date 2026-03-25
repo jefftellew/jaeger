@@ -1,0 +1,10 @@
+# Python ENV folders
+fcp_venv/
+dnn_venv/
+dne_venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
